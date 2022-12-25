@@ -35,7 +35,7 @@
     display: block;
     position: absolute;
     border-left: 1px solid var(--white-color);
-    height: 14px;
+    height: 16px;
     right: -9px;
     top: 50%;
     transform: translateY(-50%);
